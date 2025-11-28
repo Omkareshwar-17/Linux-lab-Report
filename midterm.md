@@ -105,11 +105,6 @@ eg.
 ```
 0 20 * * * /home/om/mid/mid.sh
 ```
-<p align="center">
-<img src="/img/mid2.jpg" width="900">
-</p>
-
-
 ## Result:
 The script successfully logs daily system information, archives logs older than 7 days, and schedules itself to run daily using a cron job.
 
