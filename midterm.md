@@ -5,8 +5,8 @@
 * To create a shell script that logs current system information, rotates old logs, and schedules itself to run daily.
 
 ### Requirements:
-* Any Linux Distro(kali)
-* Any text editor (VS Code, Vim, Nano, etc.)  
+* Any Linux Distro
+* Any text editor ( Vim, Nano, etc.)  
 * Cron service for scheduling  
 
 
